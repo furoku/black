@@ -1,3 +1,3 @@
-# 永遠に表示されるスクリーンのための黒いページ
+# black
 
 https://black.mojofull.com
