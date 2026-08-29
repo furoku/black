@@ -1,0 +1,8 @@
+{
+  "name": "black-site",
+  "compatibility_date": "2026-08-01",
+  "assets": { "directory": "./site" },
+  "routes": [
+    { "pattern": "black.mojofull.com", "custom_domain": true }
+  ]
+}
